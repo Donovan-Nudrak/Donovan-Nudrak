@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Donovan-Nudrak/Donovan-Nudrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ██████   █████ █████  █████ ██████████   ███████████     █████████   █████   ████
+░░██████ ░░███ ░░███  ░░███ ░░███░░░░███ ░░███░░░░░███   ███░░░░░███ ░░███   ███░ 
+ ░███░███ ░███  ░███   ░███  ░███   ░░███ ░███    ░███  ░███    ░███  ░███  ███   
+ ░███░░███░███  ░███   ░███  ░███    ░███ ░██████████   ░███████████  ░███████    
+ ░███ ░░██████  ░███   ░███  ░███    ░███ ░███░░░░░███  ░███░░░░░███  ░███░░███   
+ ░███  ░░█████  ░███   ░███  ░███    ███  ░███    ░███  ░███    ░███  ░███ ░░███  
+ █████  ░░█████ ░░████████   ██████████   █████   █████ █████   █████ █████ ░░████
+░░░░░    ░░░░░   ░░░░░░░░   ░░░░░░░░░░   ░░░░░   ░░░░░ ░░░░░   ░░░░░ ░░░░░   ░░░░ 
+                                                                                  
+---
 
-Here are some ideas to get you started:
+## Backend Engineer | Python | FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend engineer focused on designing and building scalable API systems with Python.
+
+---
+
+## Focus
+I build backend systems with emphasis on clean architecture, modular design, and maintainability.
+
+---
+
+## Core Skills
+Python · FastAPI · Flask · PostgreSQL · Redis · Docker · JWT · SQLAlchemy
+
+---
+
+## Engineering Approach
+- Clean architecture and separation of concerns
+- Modular backend design
+- API-first development
+- Focus on maintainability over complexity
