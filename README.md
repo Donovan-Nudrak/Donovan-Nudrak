@@ -3,11 +3,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=600&lines=%7B+NUDRAK+%7D;Backend+Engineer;Python+%7C+FastAPI+%7C+PostgreSQL;~/backend+%E2%80%94+systems+online" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=900&height=80&lines=%7B+NUDRAK+%7D;Backend+Engineer;Python+%7C+FastAPI+%7C+PostgreSQL;~/backend+%E2%80%94+systems+online" alt="Typing intro" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3200&pause=1200&color=FF0080&center=true&vCenter=true&width=620&lines=nudrak%40linux%3A~%2Fbackend%24+whoami;Donovan+Agustin+Alvarez;status%3A+OPEN+TO+WORK" alt="Terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1200&color=FF0080&center=true&vCenter=true&width=780&height=40&lines=nudrak%40linux%3A~%2Fbackend%24+whoami;Donovan+Agustin+Alvarez;status%3A+OPEN+TO+WORK" alt="Terminal typing" />
 
 <br /><br />
 
