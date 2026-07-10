@@ -12,7 +12,7 @@
 
 <br /><br />
 
-[![Portfolio](https://img.shields.io/badge/▸_PORTFOLIO-NUDRAK-00f5d4?style=for-the-badge&labelColor=0B0F14&color=ff0080)](https://donovan-nudrak.github.io/NUDRAK_WEB/)
+[![Portfolio](https://img.shields.io/badge/▸_PORTFOLIO-NUDRAK-00f5d4?style=for-the-badge&labelColor=0B0F14&color=ff0080)](https://donovan-nudrak.github.io/Nudrak.dev/)
 [![Email](https://img.shields.io/badge/▸_EMAIL-Nudrak@protonmail.com-00f5d4?style=for-the-badge&labelColor=0B0F14&color=7b61ff)](mailto:Nudrak@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/▸_LINKEDIN-CONNECT-00f5d4?style=for-the-badge&labelColor=0B0F14&color=ff0080)](https://www.linkedin.com/in/donovan-a-a-83b7ba3a2)
 
