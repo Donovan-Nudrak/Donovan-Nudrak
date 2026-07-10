@@ -1,9 +1,10 @@
-<!-- Profile README for github.com/Donovan-Nudrak/Donovan-Nudrak -->
-<!-- Copy this file to the root of that repo as README.md -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=900&height=80&lines=%7B+NUDRAK+%7D;Backend+Engineer;Python+%7C+FastAPI+%7C+PostgreSQL;~/backend+%E2%80%94+systems+online" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=72&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=1000&height=110&lines=%7B+NUDRAK+%7D" alt="NUDRAK" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=900&height=50&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+PostgreSQL;~/backend+%E2%80%94+systems+online" alt="Typing intro" />
 
 <br />
 
@@ -17,8 +18,6 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ```diff
 + SYSTEM BOOT :: NUDRAK/neural-uplink v1.0
 + KERNEL .......... Linux x86_64
@@ -26,8 +25,6 @@
 + WORKDIR ......... ~/backend
 + STATUS .......... ONLINE · OPEN TO BACKEND ROLES
 ```
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## `// MODULE :: ABOUT`
 
@@ -49,8 +46,6 @@ projects  = Advanced personal builds
 status    = Open to employment & backend projects
 language  = Native Spanish · Technical English (improving)
 ```
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## `// MODULE :: STACK`
 
@@ -104,8 +99,6 @@ ai_workflow: [Cursor, ChatGPT, Claude]
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## `// MODULE :: PROJECTS`
 
 | `ID` | Project | Description | Stack |
@@ -124,29 +117,28 @@ GET  /notes/shared    # [04] Notes API  · ● LIVE
 
 **Live demo →** [Notes API on Railway](https://rest-api-nootesapp-production.up.railway.app)
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## `// MODULE :: STATS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Donovan-Nudrak&show_icons=true&theme=transparent&hide_border=true&bg_color=0B0F14&title_color=00f5d4&text_color=C9D1D9&icon_color=ff0080&ring_color=7b61ff&border_radius=10" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donovan-Nudrak&layout=compact&theme=transparent&hide_border=true&bg_color=0B0F14&title_color=00f5d4&text_color=C9D1D9&border_radius=10" alt="Top Languages" />
+![GitHub](https://img.shields.io/badge/GitHub-Donovan--Nudrak-00f5d4?style=for-the-badge&logo=github&labelColor=0B0F14)
+![Followers](https://img.shields.io/github/followers/Donovan-Nudrak?style=for-the-badge&label=FOLLOWERS&labelColor=0B0F14&color=ff0080&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Donovan-Nudrak?style=for-the-badge&label=TOTAL_STARS&labelColor=0B0F14&color=7b61ff&logo=github&logoColor=white)
 
 <br />
 
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=Donovan-Nudrak&theme=transparent&hide_border=true&background=0B0F14&stroke=7b61ff&ring=ff0080&fire=00f5d4&currStreakLabel=00f5d4&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+![Python](https://img.shields.io/badge/Python-Primary-00f5d4?style=for-the-badge&logo=python&logoColor=0B0F14&labelColor=0B0F14)
+![HTML](https://img.shields.io/badge/HTML-CSS-ff0080?style=for-the-badge&logo=html5&logoColor=white&labelColor=0B0F14)
+![Shell](https://img.shields.io/badge/Shell-Bash-7b61ff?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0B0F14)
+![Docker](https://img.shields.io/badge/Docker-DevOps-00f5d4?style=for-the-badge&logo=docker&logoColor=0B0F14&labelColor=0B0F14)
+
+<br />
+
+![Activity](https://img.shields.io/badge/Commit_Activity-Active-00f5d4?style=for-the-badge&labelColor=0B0F14)
+![Open Source](https://img.shields.io/badge/Open_Source-Building-ff0080?style=for-the-badge&labelColor=0B0F14)
+![Backend](https://img.shields.io/badge/Focus-Backend_APIs-7b61ff?style=for-the-badge&labelColor=0B0F14)
 
 </div>
-
-<!-- Optional: enable the snake animation by adding the github-contribution-grid-snake workflow to this repo -->
-<!--
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Donovan-Nudrak/Donovan-Nudrak/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</div>
--->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## `// MODULE :: CONTACT`
 
