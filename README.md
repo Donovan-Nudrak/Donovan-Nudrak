@@ -2,173 +2,119 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=72&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=1000&height=110&lines=%7B+NUDRAK+%7D" alt="NUDRAK" />
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=900&height=50&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+PostgreSQL;~/backend+%E2%80%94+systems+online" alt="Typing intro" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1200&color=FF0080&center=true&vCenter=true&width=780&height=40&lines=nudrak%40linux%3A~%2Fbackend%24+whoami;Donovan+Agustin+Alvarez;status%3A+OPEN+TO+WORK" alt="Terminal typing" />
-
-<br /><br />
-
-[![Portfolio](https://img.shields.io/badge/▸_PORTFOLIO-NUDRAK-00f5d4?style=for-the-badge&labelColor=0B0F14&color=ff0080)](https://donovan-nudrak.github.io/Nudrak.dev/)
-[![Email](https://img.shields.io/badge/▸_EMAIL-Nudrak@protonmail.com-00f5d4?style=for-the-badge&labelColor=0B0F14&color=7b61ff)](mailto:Nudrak@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/▸_LINKEDIN-CONNECT-00f5d4?style=for-the-badge&labelColor=0B0F14&color=ff0080)](www.linkedin.com/in/donovan-a-83b7ba3a2)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3600&pause=4100&color=00D4C4&center=true&vCenter=true&width=680&height=40&lines=Full-Stack+Developer;Backend-focused+%C2%B7+Python+%26+FastAPI;React+%26+TypeScript+%C2%B7+Interactive+Interfaces" alt="Full-Stack Developer · Backend-focused · Python & FastAPI" />
 
 </div>
 
-```diff
-+ SYSTEM BOOT :: NUDRAK/neural-uplink v1.0
-+ KERNEL .......... Linux x86_64
-+ SHELL ........... zsh
-+ WORKDIR ......... ~/backend
-+ STATUS .......... ONLINE · OPEN TO BACKEND ROLES
-```
+**Donovan Agustín Alvarez**  
+Full-Stack Developer · Backend-focused
 
-## `// MODULE :: ABOUT`
+I build complete web applications, from APIs and data persistence to the interfaces that use them. I focus on backend architecture and clear boundaries between application layers.
 
-```python
-# architecture.py — separation of concerns
-routes   → HTTP layer      # neon ingress
-services → business logic  # core processor
-repos    → data access     # memory banks
-```
+[Portfolio](https://nudrak.dev) · [LinkedIn](https://www.linkedin.com/in/donovan-a-83b7ba3a2) · [Email](mailto:donovannud@gmail.com)
 
-Backend developer focused on designing and building **scalable systems**, **APIs**, and **modular architectures** with Python.
+---
 
-I go beyond working code — I structure projects with clear layers so they can grow cleanly, even on small codebases.
+## Core stack
 
-```ini
-[profile]
-role      = Junior Backend Engineer
-projects  = Advanced personal builds
-status    = Open to employment & backend projects
-language  = Native Spanish · Technical English (improving)
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## `// MODULE :: STACK`
+---
 
-```yaml
-backend:     [Python, FastAPI, Flask]
-databases:   [PostgreSQL, SQLite, Redis]
-devops:      [Docker, GitHub Actions, Alembic]
-security:    [JWT, bcrypt, Sessions]
-environment: [Linux, Bash, Nvim, Git]
-architecture: [Clean Architecture, Layered, Repository Pattern, REST API]
-ai_workflow: [Cursor, ChatGPT, Claude]
-```
+## Technical stack
+
+Python and FastAPI are my primary backend focus. My work with Node.js, Express, and MongoDB includes hands-on learning through Full Stack Open.
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**`01 // BACKEND`**  
-![Python](https://img.shields.io/badge/Python-00f5d4?style=flat-square&logo=python&logoColor=0B0F14&labelColor=0B0F14)
-![FastAPI](https://img.shields.io/badge/FastAPI-ff0080?style=flat-square&logo=fastapi&logoColor=white&labelColor=0B0F14)
-![Flask](https://img.shields.io/badge/Flask-7b61ff?style=flat-square&logo=flask&logoColor=white&labelColor=0B0F14)
+**Languages & Web**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 
-**`02 // DATABASES`**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00f5d4?style=flat-square&logo=postgresql&logoColor=0B0F14&labelColor=0B0F14)
-![SQLite](https://img.shields.io/badge/SQLite-ff0080?style=flat-square&logo=sqlite&logoColor=white&labelColor=0B0F14)
-![Redis](https://img.shields.io/badge/Redis-7b61ff?style=flat-square&logo=redis&logoColor=white&labelColor=0B0F14)
+**Backend**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-1F2937?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404040?style=flat&logo=express&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 
-**`03 // DEVOPS`**  
-![Docker](https://img.shields.io/badge/Docker-00f5d4?style=flat-square&logo=docker&logoColor=0B0F14&labelColor=0B0F14)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff0080?style=flat-square&logo=githubactions&logoColor=white&labelColor=0B0F14)
-![Alembic](https://img.shields.io/badge/Alembic-7b61ff?style=flat-square&labelColor=0B0F14)
+**Databases & Cache**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
+
+**ORM & Migrations**  
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-1F4E79?style=flat) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+
+**Testing & Quality**  
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=flat&logo=vitest&logoColor=white) ![node:test](https://img.shields.io/badge/node%3Atest-339933?style=flat&logo=nodedotjs&logoColor=white) ![SuperTest](https://img.shields.io/badge/SuperTest-6F42C1?style=flat) ![Oxlint](https://img.shields.io/badge/Oxlint-5A67D8?style=flat&logo=oxc&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
-**`04 // SECURITY`**  
-`JWT` `bcrypt` `Sessions`
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logo=zustand&logoColor=white)
 
-**`05 // ENVIRONMENT`**  
-![Linux](https://img.shields.io/badge/Linux-00f5d4?style=flat-square&logo=linux&logoColor=0B0F14&labelColor=0B0F14)
-![Git](https://img.shields.io/badge/Git-ff0080?style=flat-square&logo=git&logoColor=white&labelColor=0B0F14)
-`Bash` `Nvim`
+**Styling**  
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-264DE4?style=flat&logo=css&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![CSS custom properties](https://img.shields.io/badge/CSS_custom_properties-1572B6?style=flat&logo=css&logoColor=white)
 
-**`06 // ARCHITECTURE`**  
-`Clean Architecture` `Layered` `Repository Pattern` `REST API`
+**Motion & UI**  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black) ![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-0AE448?style=flat&logoColor=black) ![SplitText](https://img.shields.io/badge/SplitText-88CE02?style=flat) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) ![Lenis](https://img.shields.io/badge/Lenis-FF0080?style=flat) ![Lucide](https://img.shields.io/badge/Lucide-F56565?style=flat&logo=lucide&logoColor=white)
 
-**`07 // AI WORKFLOW`**  
-`Cursor` `ChatGPT` `Claude`
+**Infrastructure & Delivery**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white)
+
+**Integrations**  
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazons3&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-1F2937?style=flat&logo=resend&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![OpenRouter API](https://img.shields.io/badge/OpenRouter_API-6566F1?style=flat)
 
 </td>
 </tr>
 </table>
 
-## `// MODULE :: PROJECTS`
+---
 
-| `ID` | Project | Description | Stack |
-|:--:|---------|-------------|-------|
-| `01` | [**Ecommerce API**](https://github.com/Donovan-Nudrak/E_commerce) | Full e-commerce backend: products, users, orders, JWT, cart, stock & admin | `FastAPI` `PostgreSQL` `Redis` `Docker` |
-| `02` | [**Task Manager API**](https://github.com/Donovan-Nudrak/Task_Manager) | Multi-team tasks with RBAC, soft delete, pagination, filters & CI | `FastAPI` `PostgreSQL` `JWT` `Docker` |
-| `03` | [**RAG Core Service**](https://github.com/Donovan-Nudrak/RAG_Core_Service) | RAG pipeline: embeddings, LLMs via OpenRouter & semantic retrieval | `FastAPI` `OpenRouter` `SQLite` `Pydantic` |
-| `04` | [**Notes API**](https://github.com/Donovan-Nudrak/Rest-Api-NOOTES_APP) | Session auth, shared notes & permissions — **`LIVE IN PRODUCTION`** | `Flask` `SQLite` `SQLAlchemy` |
+## Technical capabilities
 
-```http
-POST /api/v1/orders   # [01] Ecommerce  · JWT auth
-GET  /api/v1/tasks    # [02] Task Mgr   · RBAC
-POST /api/v1/query    # [03] RAG Core   · embeddings
-GET  /notes/shared    # [04] Notes API  · ● LIVE
-```
+- Design and implement REST APIs with request validation and OpenAPI documentation.
+- Build authentication with JWT access and refresh tokens, HTTP-only cookies, and bcrypt; apply RBAC and rate limiting.
+- Model relational data, manage migrations and caching, and structure data access.
+- Integrate payments, webhooks, object storage, and transactional email.
+- Automate processes and background tasks; implement semantic search with embeddings and integrate RAG/LLM services.
+- Build React interfaces connected to backend APIs, with responsive layouts and web animation.
 
-**Live demo →** [Notes API on Railway](https://rest-api-nootesapp-production.up.railway.app)
+---
 
-## `// MODULE :: STATS`
+## Engineering approach
 
-<div align="center">
+- Separate HTTP transport, business logic, and data access into layers with modular components.
+- Use explicit validation, predictable error handling, and traceable behavior when external services fail.
+- Review changes, run automated tests, use reproducible Docker environments, and integrate continuously with GitHub Actions.
 
-![GitHub](https://img.shields.io/badge/GitHub-Donovan--Nudrak-00f5d4?style=for-the-badge&logo=github&labelColor=0B0F14)
-![Followers](https://img.shields.io/github/followers/Donovan-Nudrak?style=for-the-badge&label=FOLLOWERS&labelColor=0B0F14&color=ff0080&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/Donovan-Nudrak?style=for-the-badge&label=TOTAL_STARS&labelColor=0B0F14&color=7b61ff&logo=github&logoColor=white)
+---
 
-<br />
+## Education & Credentials
 
-![Python](https://img.shields.io/badge/Python-Primary-00f5d4?style=for-the-badge&logo=python&logoColor=0B0F14&labelColor=0B0F14)
-![HTML](https://img.shields.io/badge/HTML-CSS-ff0080?style=for-the-badge&logo=html5&logoColor=white&labelColor=0B0F14)
-![Shell](https://img.shields.io/badge/Shell-Bash-7b61ff?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0B0F14)
-![Docker](https://img.shields.io/badge/Docker-DevOps-00f5d4?style=for-the-badge&logo=docker&logoColor=0B0F14&labelColor=0B0F14)
+**Full Stack Open — University of Helsinki**  
+July 2026 · 5 ECTS  
+Completed parts 0–4 · 85 exercises  
 
-<br />
+[View public credential](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/cdeff9eb2efb80010bbe0d1a2415a522)
 
-![Activity](https://img.shields.io/badge/Commit_Activity-Active-00f5d4?style=for-the-badge&labelColor=0B0F14)
-![Open Source](https://img.shields.io/badge/Open_Source-Building-ff0080?style=for-the-badge&labelColor=0B0F14)
-![Backend](https://img.shields.io/badge/Focus-Backend_APIs-7b61ff?style=for-the-badge&labelColor=0B0F14)
+---
 
-</div>
+## Development environment
 
-## `// MODULE :: CONTACT`
+| OS | Shell | Editors |
+| --- | --- | --- |
+| Arch Linux | zsh | Neovim · Cursor |
 
-```bash
-$ cat /etc/nudrak/contact.conf
-email  = Nudrak@protonmail.com
-github = github.com/Donovan-Nudrak
-status = OPEN · backend roles & projects
-$ ping Nudrak@protonmail.com
-PING contact.nudrak (protonmail) — signal ready_
-```
+---
 
-<div align="center">
+## Contact
 
-[![GitHub](https://img.shields.io/badge/▸_GITHUB-Donovan--Nudrak-00f5d4?style=for-the-badge&labelColor=0B0F14&color=ff0080)](https://github.com/Donovan-Nudrak)
-[![LinkedIn](https://img.shields.io/badge/▸_LINKEDIN-CONNECT-00f5d4?style=for-the-badge&labelColor=0B0F14&color=7b61ff)](https://www.linkedin.com/in/donovan-a-a-83b7ba3a2)
-[![Email](https://img.shields.io/badge/▸_EMAIL-SEND_SIGNAL-00f5d4?style=for-the-badge&labelColor=0B0F14&color=ff0080)](mailto:Nudrak@protonmail.com)
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=Donovan-Nudrak&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge&labelColor=0B0F14" alt="Profile views" />
-
-<br /><br />
-
-<sub>
-
-`© 2026 NUDRAK · Donovan Agustin Alvarez`
-
-`$ exit 0` `// thanks for visiting — connection closed`
-
-</sub>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-nudrak.dev-0EA5E9?style=flat&logo=googlechrome&logoColor=white)](https://nudrak.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Donovan--Nudrak-181717?style=flat&logo=github&logoColor=white)](https://github.com/Donovan-Nudrak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Donovan_Agustín_Alvarez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donovan-a-83b7ba3a2)
+[![Email](https://img.shields.io/badge/Email-donovannud%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:donovannud@gmail.com)
+[![CV Spanish](https://img.shields.io/badge/CV-Spanish-D32F2F?style=flat&logo=adobeacrobatreader&logoColor=white)](https://nudrak.dev/assets/CV-ES-Donovan-Agustin-Alvarez.pdf)
+[![CV English](https://img.shields.io/badge/CV-English-1565C0?style=flat&logo=adobeacrobatreader&logoColor=white)](https://nudrak.dev/assets/CV-EN-Donovan-Agustin-Alvarez.pdf)
